@@ -1,2 +1,0 @@
-# Atom
-Programação Atom
